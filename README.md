@@ -14,7 +14,7 @@ Peaceful background and a stylish gameboard with floating cells invite you for a
 
 <br><br>
 ## Highlights :star:
-The selected number is highlighted, this can help you finding the missing cell.
+The selected number is highlighted everywhere on the board, this can help you to find its place.
 After using one digit at all, it vanishes from the digit-picker.
 
 ![image](https://github.com/Horadry/Sudoku/assets/61520916/663d7ed3-dc6a-4883-b62a-bef27f0b881e)
