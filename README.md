@@ -35,6 +35,6 @@ The difficult game has ended with success this time. Regardless of the result Su
 
 ***
 <br>
-Music: *Spring Awakening by Ty Simon*
+**Music:** Spring Awakening by Ty Simon
 <br>
-Background image: *Pixabay*
+**Background image:** Pixabay
