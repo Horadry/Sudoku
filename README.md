@@ -7,7 +7,7 @@ Find all the missing numbers, enjoy the relaxing music and the visual effects.
 
 <br><br>
 ## Idyllic gameboard :palm_tree:
-Peaceful background and a stylish gameboard with moving cells invites you for a game.
+Peaceful background and a stylish gameboard with floating cells invite you for a game.
 
 ![image](https://github.com/Horadry/Sudoku/assets/61520916/e7e533b4-0439-4297-80f8-159d69241539)
 
