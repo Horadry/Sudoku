@@ -1,0 +1,93 @@
+<!DOCTYPE html> 
+
+<html lang="hu">
+
+<head>
+	<title>New</title>	
+	<meta charset="UTF-8">
+	<meta name="description" content="A page about ..............">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/sudoku_style.css">
+	
+
+</head>
+
+
+<body>
+	
+	<!--<audio src="audio/main_theme_1.mp3"></audio>-->
+	<audio src="audio/SpringAwakening.mp3"></audio>
+	
+	<h1><img src="img/Sudoku_logo.png" width="300" height="100" alt=" "></h1>
+
+	<!--<h1>Sudoku</h1>-->
+    <!-- <hr> -->
+
+	<div id="navbar">
+		<button type="button" id="btn_newgame" class="button">NEW GAME</button>
+	</div>
+	
+    <!-- <h2 id="errors">0</h2> -->
+	<img id="heartsimg" src="img/3_heart.png" width="195" height="70" alt="hearts">
+	<div id="gamereport">0 XP</div>
+	
+
+	<!-- 9x9 gameboard -->
+	<div id="gameboard"></div>
+	<br>
+	<div id="digits">
+	</div>
+
+	<!-- Buttons -->
+	<div id="container_w" class="container" hidden>
+	  <div class="container-inner">
+		<div id="content_winner" class="content">
+			<p id="insert_xp"><br></p>
+			<p>Congratulations! 🥳🥳🥳</p>
+		</div>
+		<div class="buttons">
+			<button id="btn_newgame2" type="button" class="button2">NEW GAME</button>
+			<button id="btn_code" type="button" class="button2" onclick="open_github()">CODE</button>
+			<button id="btn_contact" type="button" class="button2" onclick="open_linkedin()">CONTACT</button>
+		</div>
+	  </div>
+	</div>
+
+	<div id="container_l" class="container" hidden>
+	  <div class="container-inner">
+		<div class="content">
+			<p>Oh, no! You have lost all of your hearts! 💗</p>
+			<p>Try again?</p>
+		</div>
+		<div class="buttons">
+			<button id="btn_newgame3" type="button" class="button2">NEW GAME</button>
+			<button id="btn_code" type="button" class="button2" onclick="open_github()">CODE</button>
+			<button id="btn_contact" type="button" class="button2" onclick="open_linkedin()">CONTACT</button>
+		</div>
+	  </div>
+	</div>
+
+<footer>
+	<div id="name">Designed by Horadry</div>	
+</footer>
+<script src="sudoku_js.js"></script>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
