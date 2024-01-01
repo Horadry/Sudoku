@@ -34,7 +34,7 @@ The difficult game has ended with success this time. Regardless of the result Su
 ![image](https://github.com/Horadry/Sudoku/assets/61520916/a4134983-6532-4ebf-bb84-d2b723bfff8a)
 
 ***
-<br>
+
 **Music:** Spring Awakening by Ty Simon
-<br>
+
 **Background image:** Pixabay
